@@ -1,4 +1,4 @@
-# How to Random China Trackpad Work Properly on Arch Linux + Hyprland
+# How to Random Chinese Trackpad Work Properly on Arch Linux + Hyprland
 
 This guide is based on real debugging steps, command outputs, and the final working solution.
 The issue turned out to be caused by the device being incorrectly handled by the **magicmouse** driver, preventing multitouch and gestures from working.
