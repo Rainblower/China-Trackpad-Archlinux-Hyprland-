@@ -194,13 +194,3 @@ After disabling `magicmouse` and enabling `hid-multitouch`, the trackpad works f
 
 ---
 
-# 📌 Optional additions
-
-I can also prepare:
-
-- Hyprland gesture bindings  
-- libinput tuning (sensitivity, natural scrolling, tap-to-click)  
-- Multitouch event debugging with `libinput debug-events`
-
-Just ask if you want them added!
-
